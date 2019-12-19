@@ -1,0 +1,15 @@
+body{
+  background-color: darkred;
+  color: aliceblue;
+  font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif; 
+}
+form{
+  background-color: #E98040;
+  color: mistyrose;
+}
+.head{
+  text-align:center;
+  border-style:outset;
+  border-color: #E98040;
+  
+}
